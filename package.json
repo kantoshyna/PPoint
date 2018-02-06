@@ -1,0 +1,15 @@
+{
+  "name": "ppoint",
+  "version": "1.0.0",
+  "description": "remote control of ppoint",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PPoint"
+  },
+  "author": "kate",
+  "license": "ISC"
+}
