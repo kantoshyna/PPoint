@@ -1,9 +1,33 @@
-var syst = require("initing.js");
+var exProgram = require("initing.js");
 
-function nextPage() {}
+function nextPage() {
+  if (exProgram == "powerPoint") {
+    //bash
+  } else {
+    //bash
+  }
+}
 
-function prevPage() {}
+function prevPage() {
+  if (exProgram == "powerPoint") {
+    //bash
+  } else {
+    //bash
+  }
+}
 
-function startShow() {}
+function startShow() {
+  if (exProgram == "powerPoint") {
+    //bash
+  } else {
+    //bash
+  }
+}
 
-function stopShow() {}
+function stopShow() {
+  if (exProgram == "powerPoint") {
+    //bash
+  } else {
+    //bash
+  }
+}
