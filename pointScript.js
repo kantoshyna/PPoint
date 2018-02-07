@@ -1,6 +1,8 @@
-var exProgram = require("initing.js");
+var exProgram = require("./initing.js");
+document.getElementById("justP").innerHTML = exProgram;
 
 function nextPage() {
+  document.getElementById("justP").innerHTML = exProgram;
   if (exProgram == "powerPoint") {
     //bash
   } else {
