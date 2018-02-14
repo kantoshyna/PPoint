@@ -9,7 +9,7 @@ function ipInit() {
 }
 
 var OS = "";
-
+//let`s fuck it up!
 function init(opSyst) {
   if (opSyst == 1) {
     OS = "powerPoint";
